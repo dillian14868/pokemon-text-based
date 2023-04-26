@@ -1,0 +1,25 @@
+A text file “install.txt” with step-by-step instructions for us to compile and run your
+source code. Specify what operating system (include the version of that
+operating system) is required and what dependencies you’ve used. You must
+include specific instructions and terminal commands for the following:
+a. How to install any dependencies your software requires.
+b. How to compile your code with g++ (include the exact terminal command,
+not an IDE configuration).
+c. How to run your code, including a brief description of what should happen
+when we run your code (e.g., should a GUI window open? will it spend
+more than a few minutes processing data?)
+Note that 4 points will be allocated towards whether/how easily we can follow
+your instructions and see the same result, e.g., are any steps missing?
+
+To run code:
+1. In the POKEMON FINAL folder, in VSCODE type "g++ -Wall -Wextra -pedantic -std=c++17 -g main.cpp -o main.exe" to compile the code
+2. Type "./main.exe" to run the code
+
+No operating system is required, and no extra dependencies were used. When the code is run, a prompt should pop up at the bottom asking 
+for your name. The game will prompt you with choices as you go. Including what choices and restrictions you have. Some of these are
+catching pokemon, buying items, and fighting the gym master. There will be an option to exit as long as you are not buying items, fighting,
+or using items. 
+
+To run the tests:
+1. In the POKEMON FINAL folder, in VSCODE type "sh run_tests.sh" to run tests
+2. If there are no differences the end-to-end tests pass
