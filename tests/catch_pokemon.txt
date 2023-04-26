@@ -1,0 +1,21 @@
+Dillian
+b
+heads
+Squirtle
+b
+Water Pulse
+b
+Water Pulse
+b 
+Water Pulse
+b
+Red Pokeball
+a
+heads
+Squirtle
+b
+Water Pulse
+b
+Water Pulse
+c
+quit

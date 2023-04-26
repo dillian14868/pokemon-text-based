@@ -1,0 +1,128 @@
+[H[2JWelcome to Lavender town!
+What is your name?
+Hi Dillian. Now it is time to choose your starting pokemon.
+Type a for Bulbasaur, type b for Squirtle, type c for Charmander
+You chose Squirtle
+
+These are the pokemon you have.
+Pokemon Name: Squirtle	Evolve Level: 1	Type: Water Health: 50 XP: 0
+Amount of Pokemon you have: 1
+
+Now it is time for your first battle
+This is a battle! Type heads or tails (if you pick neither you will automatically be heads)
+[H[2J                            ████████████
+                        ██████      ████████
+                      ████              ████
+                     ██    ███      ███   ████
+                   ████    ███      ███     ███
+                   ██      ████████████      ███
+                   ██      ███      ███      ███
+                   ████    ███      ███     ███
+                     ██                    ███
+                       ███████      ████████
+                           ████████████
+
+You chose heads and the coin flipped heads
+You get to go first!
+Which of your pokemon will fight?
+Your choices are the following: 
+Pokemon Name: Squirtle	Evolve Level: 1	Type: Water Health: 50 XP: 0
+You chose the pokemon with the following stats 
+Pokemon Name: Squirtle	Evolve Level: 1	Type: Water Health: 50 XP: 0
+
+
+Your choices when it is your turn are to run(a), choose an attack (b), or catch a pokemom(c)
+Type a, b, or c. If you type none of the choices you will be automatically fight. You can't choose run your first battle. 
+And, if you choose (a) during a gym battle you will be able to pick different pokemon.
+Your choices of attacks: 
+Name: Water Gun	Damage: 10
+Name: Water Pulse	Damage: 20
+
+Which attack do you want to use?
+[H[2J not valid try again
+Which attack do you want to use?
+[H[2J
+Water Pulse was successful. Flygon health is 30
+Now it is Flygon 's turn
+Their Melee2 was successful. Your pokemon's health is 45
+
+Your choices when it is your turn are to run(a), choose an attack (b), or catch a pokemom(c)
+Type a, b, or c. If you type none of the choices you will be automatically fight. You can't choose run your first battle. 
+And, if you choose (a) during a gym battle you will be able to pick different pokemon.
+Your choices of attacks: 
+Name: Water Gun	Damage: 10
+Name: Water Pulse	Damage: 20
+
+Which attack do you want to use?
+[H[2J not valid try again
+Which attack do you want to use?
+[H[2J
+Water Pulse was successful. Flygon health is 10
+Now it is Flygon 's turn
+Their Melee3 was successful. Your pokemon's health is 35
+
+Your choices when it is your turn are to run(a), choose an attack (b), or catch a pokemom(c)
+Type a, b, or c. If you type none of the choices you will be automatically fight. You can't choose run your first battle. 
+And, if you choose (a) during a gym battle you will be able to pick different pokemon.
+Your choices of attacks: 
+Name: Water Gun	Damage: 10
+Name: Water Pulse	Damage: 20
+
+Which attack do you want to use?
+[H[2J  not valid try again
+Which attack do you want to use?
+[H[2J
+Water Pulse was successful. Flygon health is -10
+YOU WON
+
+
+You gained $10. Your total is now $160
+Experience level of this pokemon is 20
+Congrats you've completed your first battle! There are now five options you can choose from:
+
+Fighting more pokemon in the fields (a), going to the store to buy supplies (b), 
+trying to fight the gym boss (c), using an item(d), and quiting (quit).
+Warning quiting doesn't save your progress. Type a, b, c, d or quit
+[H[2JWhat would you like to buy? Your choices are Potion ($10), Red Pokeball ($30), or Revival ($100)
+You have $160 dollars to spend.
+Type Potion, Red Pokeball, Revival, and exit to leave.
+
+You didn't type any of the choices try again or you don't have enough money to buy that item.
+You bought a Potion!
+You have $150 dollars left.
+You have the following items:
+Potion
+
+Fighting more pokemon in the fields (a), going to the store to buy supplies (b), 
+trying to fight the gym boss (c), using an item(d), and quiting (quit).
+Warning quiting doesn't save your progress. Type a, b, c, d or quit
+[H[2JWhat would you like to buy? Your choices are Potion ($10), Red Pokeball ($30), or Revival ($100)
+You have $150 dollars to spend.
+Type Potion, Red Pokeball, Revival, and exit to leave.
+
+You didn't type any of the choices try again or you don't have enough money to buy that item.
+You bought a Red Pokeball!
+You have $120 dollars left.
+You have the following items:
+Potion
+Red Pokeball
+
+Fighting more pokemon in the fields (a), going to the store to buy supplies (b), 
+trying to fight the gym boss (c), using an item(d), and quiting (quit).
+Warning quiting doesn't save your progress. Type a, b, c, d or quit
+[H[2JWhat would you like to buy? Your choices are Potion ($10), Red Pokeball ($30), or Revival ($100)
+You have $120 dollars to spend.
+Type Potion, Red Pokeball, Revival, and exit to leave.
+
+You didn't type any of the choices try again or you don't have enough money to buy that item.
+You bought a Revival!
+You have $20 dollars left.
+You have the following items:
+Potion
+Red Pokeball
+Revival
+
+Fighting more pokemon in the fields (a), going to the store to buy supplies (b), 
+trying to fight the gym boss (c), using an item(d), and quiting (quit).
+Warning quiting doesn't save your progress. Type a, b, c, d or quit
+[H[2J
